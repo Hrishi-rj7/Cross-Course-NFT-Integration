@@ -24,7 +24,7 @@ This project is a decentralized application (dApp) that leverages blockchain tec
 
 ## Smart Contract Overview
 
-### `💻 CourseCertificateNFT.sol`
+### `💻 CourseNFT.sol`
 
 This Solidity smart contract handles the minting of NFTs and the issuance of certificates.
 
