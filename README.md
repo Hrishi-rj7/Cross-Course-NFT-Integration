@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/5feb1f95-9fc5-4eda-8991-c2d5e8f5ab43)
 
-# 🎓 Cross-Course NFT Integration and Course Completion Certificate 
+# 🎓 Cross-Course NFT Integration and Certification
 
 ## Project Overview
 
