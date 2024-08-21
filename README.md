@@ -6,6 +6,8 @@
 
 **📜 Contract Address: 0x04e24B5435621751E12733847454c1974465206D**
 
+![image](https://github.com/user-attachments/assets/68102318-174d-4fad-b9dc-44e1ae973609)
+
 This project is a decentralized application (dApp) that leverages blockchain technology to enhance online education platforms. The project provides a dual-purpose solution for course completion:
 
 1. **🎟️ Cross-Course NFT Integration**: Students who complete a course are awarded a unique Non-Fungible Token (NFT). These NFTs not only serve as proof of course completion but also can be used to unlock additional content in other courses on the platform.
