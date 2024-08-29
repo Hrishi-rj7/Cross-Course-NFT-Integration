@@ -99,4 +99,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
-For any questions or suggestions, feel free to contact me at [hrishiraj.modi.12b.399@gmail.com].
+For any questions or suggestions, feel free to contact me at hrishiraj.modi.12b.399@gmail.com.
