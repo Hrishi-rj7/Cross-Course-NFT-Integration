@@ -92,3 +92,11 @@ This Solidity smart contract handles the minting of NFTs and the issuance of cer
 - **🛒 Marketplace Integration**: Allow students to trade or sell their NFTs in a decentralized marketplace.
 - **📑 Advanced Certification**: Implement multi-signature validation for certificates, allowing multiple parties to verify a student's achievement.
 - **🎮 Gamification**: Introduce gamification elements where students can collect badges or special NFTs based on performance.
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+## 📞 Contact
+
+For any questions or suggestions, feel free to contact me at [hrishiraj.modi.12b.399@gmail.com].
